@@ -1,0 +1,19 @@
+{
+  "name": "asincrinisno",
+  "version": "1.0.0",
+  "description": "curso de Asincronismo ejercicios ",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "keywords": [
+    "await",
+    "asincrono",
+    "callback"
+  ],
+  "author": "JohnDev",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
